@@ -1,4 +1,4 @@
-# Character Analysis Utility
+# Character Analysis
 
 This program analyzes individual characters or entire strings to determine their types and composition. You can use it to analyze a single character or an entire string to identify the different character types and their frequencies.
 
